@@ -1,0 +1,22 @@
+{
+  "base_url": "https://www.amazon.in/OnePlus-Mirror-Black-128GB-Storage/dp/B085J19V4P/ref=lp_22429860031_1_1?s=electronics&ie=UTF8&qid=1606594150&sr=1-1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36",
+  "elements": {
+    "product_title": {
+      "target_type": "id",
+      "target_value": "productTitle"
+    },
+    "stock_text": {
+      "target_type": "id",
+      "target_value": "availability"
+    },
+    "price_text": {
+      "target_type": "id",
+      "target_value": "priceblock_dealprice"
+    }
+  },
+  "redis": {
+      "host": "localhost",
+      "port": 6379
+  }
+}

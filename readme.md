@@ -1,0 +1,2 @@
+# STOCK NOTIFIER:
+`A Python webscrapper which detects the price and stock change of your flagship products and saves it in cache to be retrieved by the cron to check against the latest entry next time set cron interval`
