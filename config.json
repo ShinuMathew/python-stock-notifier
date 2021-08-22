@@ -16,7 +16,12 @@
     }
   },
   "redis": {
-      "host": "localhost",
-      "port": 6379
+    "host": "localhost",
+    "port": 6379
+  },
+  "smtp": {
+    "sender": "mathewshinu9474@gmail.com",
+    "reciever": "shinu.mathews28@gmail.com",
+    "password": "qhhtfalsdvkacktn"
   }
 }

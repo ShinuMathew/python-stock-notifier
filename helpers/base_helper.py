@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from enums.stock import Stock, Status
+from enums.enums import Stock, Status
 from helpers.redis_helper import RedisHelper
 from helpers.smtp_helper import *
 import requests, json, re
